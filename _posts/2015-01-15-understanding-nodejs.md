@@ -1,6 +1,6 @@
 ---
 title: Understanding node.js (node.js қалай жұмыс жасайды?)
-category: Node.js
+category: javascript
 tags: node.js, javascript
 image: nodejs.png
 ---
