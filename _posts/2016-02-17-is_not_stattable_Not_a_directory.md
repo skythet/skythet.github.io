@@ -1,5 +1,5 @@
 ---
-title: dpkg-buildpackage: "is not stattable Not a directory"
+title: deb пакет жинау кезіндегі қателік "is not stattable Not a directory"
 category: linux
 tags: debpackage, deb, linux, packages
 ---
