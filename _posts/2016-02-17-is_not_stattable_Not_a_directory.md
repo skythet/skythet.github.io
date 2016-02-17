@@ -1,8 +1,10 @@
 ---
-title: deb пакет жинау кезіндегі қателік "is not stattable Not a directory"
+title: "deb пакет жинау кезіндегі қателік \"is not stattable Not a directory\""
 category: linux
-tags: debpackage, deb, linux, packages
+tags: "debpackage, deb, linux, packages"
+published: true
 ---
+
 
 Пакет жинау кезінде мынандай қызық қателікке тап болдым. Алдын ешқандай
 қателіксіз жиналып жүрген пакетте `/etc/cron.d/jstat` орындау барысында 
@@ -24,7 +26,7 @@ dpkg-buildpackage: error: fakeroot debian/rules binary gave error exit status 2
 /etc/cron.d/jstat
 ```
 
-Қарапйым файл, екі ғана қатар жазу бар. Қателікте олар бірігіп кетіп отқан секілді.
+Қарапайым файл, екі ғана қатар жазу бар. Қателікте олар бірігіп кетіп отқан секілді.
 Гуглдан ештеңе табылмады. Алдын crontab файлдарымен жұмыс жасағанда да
 осындай қызық болған еді. Crontab файлдарда ең соңында бос қатар қалдырмасаң
 баптаулар қабылданбай қалады (ескі нұсқаларда, жаңа нұсқада тураланған).
