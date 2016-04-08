@@ -3,9 +3,9 @@ published: true
 ---
 
 
-## ‪Telegram‬ vs ‪Whatsapp‬
+## Telegram vs Whatsapp
 
-![5f588124-7e4d-49b0-8891-48db8f461d46.jpg]({{site.baseurl}}/_posts/5f588124-7e4d-49b0-8891-48db8f461d46.jpg)
+![Telegram vs Whatsapp](/assets/images/telegram-vs-whatsapp.jpg)
 
 Көпшілік телеграмды тағы бір кезекті қарапайым месенджер деп ойлайды екен. Яғни, ватсаптан айырмашылығы жоқ. Ол олай емес. Телеграмның ватсапты басып озатын бірнеше қызық тұстары бар:
 
