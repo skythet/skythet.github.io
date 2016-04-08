@@ -1,4 +1,7 @@
 ---
+title: "Telegram vs Whatsapp"
+category: telegram
+tags: "telegram,whatsapp,мессенджерлер"
 published: true
 ---
 

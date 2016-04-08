@@ -1,4 +1,7 @@
 ---
+title: "Пароліңізді сандықтың астына тығып қойыңыз"
+category: tools
+tags: "keepass,keychain,пароль,құпия сөз"
 published: true
 ---
 
