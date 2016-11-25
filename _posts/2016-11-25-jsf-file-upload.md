@@ -13,7 +13,7 @@ Java Server Faces веб парақ жазуға арналған фреймво
 пайдаланушыда файл жүктеу мүмкіндігі болуы керек. Бірден гуглға шапқан мен мынандай
 нәрсеге тап болдым:
 
-```
+```xml
 <h:form enctype="multipart/form-data">
     <h:inputFile value="#{bean.file}">
         <f:ajax listener="#{bean.save}" />
@@ -42,8 +42,8 @@ compile group: 'org.apache.myfaces.tomahawk', name: 'tomahawk21', version: '1.1.
 Мен басында солай жазып алып біраз әбігерге түстім. Енді web.xml файлына
 келесі баптауларды қосу керек:
 
-```
-	<filter>
+```xml
+    <filter>
         <filter-name>MyFacesExtensionsFilter</filter-name>
         <filter-class>org.apache.myfaces.webapp.filter.ExtensionsFilter</filter-class>
     </filter>
@@ -55,7 +55,7 @@ compile group: 'org.apache.myfaces.tomahawk', name: 'tomahawk21', version: '1.1.
 
 Bean объектімізде файлға арналған айнымалыны төмендегідей өзгертеміз:
 
-```
+```java
 @Named("bean")
 @ManagedBean
 @RequestScoped
@@ -85,7 +85,7 @@ public class Bean {
 
 Ал біздің xhtml файлымыз мына түрде болады:
 
-```
+```xml
 <!DOCTYPE html>
 <html lang="en"
       xmlns="http://www.w3.org/1999/xhtml"
