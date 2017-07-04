@@ -3,6 +3,7 @@ title: BackboneJS-пен жаттығу - автобустар уақытын б
 tags: javascript, backbonejs
 category: javascript
 image: backbone-amub.png
+published: true
 ---
 
 Өткен жолы <ls user="domalak" /> <a href="http://codeo.kz/blog/JavaScript/272.html">AngularJS-пен бейнежаттығуын</a> жариялап еді. Бағдарлама өте қарапайым және AngularJS негізгі мүмкіндіктерін көруге мүмкіндік береді. Ал мен бұл жолы дәл сол бағдарламаны <a href="http://backbonejs.org/">BackboneJS</a> фреймворкы арқылы жасап көрдім. Мұндағы мақсат кім мықты деу немесе фреймворктарды салыстыру емес, жай екі фреймворкта мәселенің қалай шешілетінін қарастыру. Бағдарламаның дайын нұсқасын <a href="http://sythet.github.io/amub/">мына жерден</a> қарауға болады.
