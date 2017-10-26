@@ -1,6 +1,7 @@
 ---
-title: Tarantool: don't use auto_increment in the vinyl engine
-tags: tarantool, vinyl
+title: "Tarantool: don't use auto_increment in the vinyl engine"
+tags: "tarantool, vinyl"
+published: true
 ---
 
 Recently we changed all our spaces in tarantool from memtx to vinyl. But,
