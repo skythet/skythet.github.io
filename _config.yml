@@ -21,3 +21,5 @@ defaults:
 
 gems:
   - jekyll-sitemap
+
+highlighter: rouge
